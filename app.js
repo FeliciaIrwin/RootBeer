@@ -7,211 +7,247 @@ var desserts = [
 		"name": "A&W Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-AAW-1.jpg?1385392682", 
 		"ingredients": ["Creamy", "Rich", "Smooth"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Anchor Ginger Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-DA-D-1.jpg?1342905973", 
 		"ingredients": ["Ginger", "Caffeine Free"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Averys Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-AV-1.jpg?1385394386", 
 		"ingredients": ["Other"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Barrel Brothers Creamy Vanilla Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-BA-1.jpg?1342626022", 
 		"ingredients": ["Creamy", "Vanilla", "Caffeine Free"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Bawls Guarana Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-BA10-1.jpg?1385401934", 
 		"ingredients": ["High Caffeine"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Bedfords Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-BD-1.jpg?1342627756", 
 		"ingredients": ["Bold", "Creamy", "Vanilla", "Cherry", "Wintergreen"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Berghoff Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-BE-1.jpg?1342627925", 
 		"ingredients": ["Caffeine Free", "Creamy", "Smooth", "Clean", "Crisp", "Birch", "Rich"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Big Ben Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-BB-1.jpg?1385392798", 
 		"ingredients": ["Other"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
+		
 	},
 	{
 		"name": "Boylans Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-BO-1.jpg?1342628256", 
 		"ingredients": ["Rich", "Spicy", "Sassafras", "Cinnamon", "Anise", "Black Pepper", "Mushroom", "Birch", "Chocolate", "Coffee", "Vanilla", "Wintergreen", "Caffeine Free"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Boylands Birch Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/templates/TRBS%20current/images/nophoto.gif?1323168167", 
 		"ingredients": ["Birch"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Brownie Caramel Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-BRO-1.jpg?1385394638", 
 		"ingredients": ["Caramel", "Caffeine Free"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Buckin' Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-BU-1.jpg?1342628412", 
 		"ingredients": ["Rich", "Sassafras", "Spicy"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Bulldog Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-BL-1.jpg?1342628085", 
 		"ingredients": ["Other"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Bundaberg Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-BUN-1.jpg?1342628523", 
 		"ingredients": ["Other"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Capone Family Secret Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-CAP-1.jpg?1342629780", 
 		"ingredients": ["Other"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Captn Elis Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-CA-1.jpg?1342789201", 
 		"ingredients": ["Wintergreen", "Anise", "Vanilla"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Chicago Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-CH-1.jpg?1385394795", 
 		"ingredients": ["Other"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Cool Mountain Gourmet Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-CO-1.jpg?1342631341", 
 		"ingredients": ["Caffeine Free"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Coopers Cave Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-COO-1.jpg?1342631487", 
 		"ingredients": ["Other"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Crater Lake Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-CRA-1.jpg?1342631848", 
 		"ingredients": ["Other"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Dad's Old Fashioned Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-DA-1.jpg?1342632545", 
 		"ingredients": ["Caffeine Free"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Dang! Butterscotch Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-DANB-1.jpg?1342632886", 
 		"ingredients": ["Butterscotch"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Dang! Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-DAN-1.jpg?1342634088", 
 		"ingredients": ["Licorice", "Smooth"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Death Valley Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-DEA-1.jpg?1342635338", 
 		"ingredients": ["Other"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Diet Berghoff Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-DA-D-1.jpg?1342905973", 
 		"ingredients": ["Diet","Caffeine Free", "Creamy", "Smooth", "Clean", "Crisp", "Birch", "Rich"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Diet Dad's Old Fashioned Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-DA-D-1.jpg?1342905973", 
 		"ingredients": ["Diet","Caffeine Free"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Diet Empire Bottling Workds Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-EM-D-1.jpg?1342906190", 
 		"ingredients": ["Diet"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Diet Filbert's Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-DA-D-1.jpg?1342905973", 
 		"ingredients": ["Diet"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Diet Fitz's St. Louis Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-DA-D-1.jpg?1342905973", 
 		"ingredients": ["Diet"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Diet Gray's Gourmet Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-DA-D-1.jpg?1342905973", 
 		"ingredients": ["Diet"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Diet IBC Amber Longnecks Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-DA-D-1.jpg?1342905973", 
 		"ingredients": ["Diet"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Diet Saranac Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-DA-D-1.jpg?1342905973", 
 		"ingredients": ["Diet"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Diet Sprecher Microbrews Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-DA-D-1.jpg?1342905973", 
 		"ingredients": ["Diet"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Diet Squamscot Root Beer",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-DA-D-1.jpg?1342905973", 
 		"ingredients": ["Diet"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Diet Virgil's Root Beer Sweetened With Stevia",
 		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-DA-D-1.jpg?1342905973", 
 		"ingredients": ["Diet"],
-		"likes": 0
+		"likes": 0,
+		"dislikes": 0
 	},
 	{
 		"name": "Dorothy's Root Beer",
@@ -598,7 +634,7 @@ var desserts = [
 		"likes": 0
 	}
 ];
-
+reloadRatings();
 for(var i = 0; i < mainIngredients.length; i++) {
 	var newOption = '<option value="' + mainIngredients[i] + '">' + mainIngredients[i] + '</option>';
 	$("#main-ingredients").append(newOption);
@@ -634,7 +670,27 @@ $('table').on('click', 'button', function() {
 		if(dessert == desserts[j]["name"]) {
 			desserts[j]["likes"]++;
 			$(this).parent().prev().html(desserts[j]["likes"] + ' ' + 'likes');
+			saveRatings();
 			break;
 		}
 	}
 });
+
+function reloadRatings () {
+    if (Modernizr.localstorage) {
+        if (localStorage["mainIngredients"] != null) {
+            mainIngredients = JSON.parse(localStorage["mainIngredients"]);
+            desserts = JSON.parse(localStorage["desserts"]);
+
+        }
+}
+}
+
+function saveRatings () {
+    if (Modernizr.localstorage) {
+        localStorage.clear();
+            localStorage["mainIngredients"] = JSON.stringify(mainIngredients);
+            localStorage["desserts"] = JSON.stringify(desserts);
+    }
+}
+

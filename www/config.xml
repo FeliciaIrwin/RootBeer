@@ -6,10 +6,10 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>Felicia's RootBeer Mania!</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Pick a root beer by textrue, flavor, and other stuff. Written by Felicia Irwin.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">

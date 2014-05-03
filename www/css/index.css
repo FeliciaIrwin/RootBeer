@@ -20,6 +20,7 @@ html {
 	height: 800px;
 	border: 3px solid #6A4A42;
 	background-image: url(../img/oldpaper.jpg);
+	background-size: 100% 100%;
 	border-radius: 20px;
 	padding: 5px;
 	-webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
@@ -34,10 +35,10 @@ h1 {
 	color: white;
 }
 
-button {
+/*button {
 	background-image: url(../img/rbicon.png);
 }
-
+*/
 .classname {
 	-moz-box-shadow:inset 0px 1px 0px 0px #fed897;
 	-webkit-box-shadow:inset 0px 1px 0px 0px #fed897;
